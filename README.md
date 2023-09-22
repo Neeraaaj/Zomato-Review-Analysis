@@ -1,4 +1,5 @@
-Zomato Review Sentiment Analysis
+#Zomato Review Sentiment Analysis.
+
 This project is a Python-based Natural Language Processing (NLP) application that performs sentiment analysis on Zomato restaurant reviews. It helps classify reviews as positive or negative based on the text content.
 
 Table of Contents
